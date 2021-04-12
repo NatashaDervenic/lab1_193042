@@ -3,4 +3,5 @@ laboratoriska
 test
 ocenka
 penkalo
+tastatura
 
